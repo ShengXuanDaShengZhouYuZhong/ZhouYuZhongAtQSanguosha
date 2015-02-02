@@ -1,5 +1,5 @@
 extension = sgs.Package("Chemistry", sgs.Package_GeneralPack)
-Shengxuandashen = sgs.General(extension, "Shengxuandashen", "qun") 
+Shengxuandashen = sgs.General(extension, "Shengxuandashen", "god", 3, true, true, false) 
 
 Shengxuan = sgs.CreateTriggerSkill{
     name = "Shengxuan" ,
@@ -52,7 +52,7 @@ Shengxuan = sgs.CreateTriggerSkill{
         room:acquireSkill(player, "paoxiao")
         room:acquireSkill(player, "guanxing")
         room:acquireSkill(player, "kongcheng")
-        room:acquireSkill(player, "tieji")
+        room:acquireSkill(player, "tieqi")
         room:acquireSkill(player, "mashu_shengxuandasheng")
         room:acquireSkill(player, "jizhi")
         room:acquireSkill(player, "qicai")
@@ -69,11 +69,11 @@ Shengxuan = sgs.CreateTriggerSkill{
         room:acquireSkill(player, "shushen")
         room:acquireSkill(player, "shenzhi")
         room:acquireSkill(player, "keji")
-        room:acquireSkill(player, "yingzi")
+        room:acquireSkill(player, "yingzi_shengxuandasheng")
         room:acquireSkill(player, "liuli")
         room:acquireSkill(player, "qianxun")
         room:acquireSkill(player, "xiaoji")
-        room:acquireSkill(player, "yinghun")
+        room:acquireSkill(player, "yinghun_shengxuandasheng")
         room:acquireSkill(player, "tianxiang")
         room:acquireSkill(player, "hongyan")       
         room:acquireSkill(player, "buqu")
@@ -172,7 +172,7 @@ sgs.LoadTranslationTable{
 	["designer:Shengxuandashen"] = "曾晋哲",
 	["illustrator:Shengxuandashen"] = "某不知名摄影家",
 	["Shengxuan"] = "省选" ,
-	[":Shengxuan"] = "锁定技，当你第一次明置此武将牌后，你获得《三国杀·国战》的所有武将的技能。"
+	[":Shengxuan"] = "锁定技，当你第一次明置此武将牌后，你获得游戏中所有武将的技能。"
 }
 Shengxuandashen:addSkill(Shengxuan) 
 return {extension}
