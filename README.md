@@ -1,1 +1,10 @@
-# ZhouYuZhongAtQSanguosha 
+# 省选大神周羽中
+“省选大神周羽中”是吾等DIY的《三国杀·国战》武将包，正式名为“化学之风”，包括一个武将：
+
+省选大神·周翀 神势力 1.5勾玉
+省选——锁定技，当你第一次明置此武将牌后，你获得游戏中所有武将的技能。
+
+# 使用方法
+将extensions和images文件夹置于太阳神三国杀国战版主目录下。
+
+太阳神三国杀国战版下载地址：https://github.com/Mogara/QSanguosha-For-Hegemony
