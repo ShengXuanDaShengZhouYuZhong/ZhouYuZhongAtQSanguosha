@@ -1,5 +1,5 @@
 # ShenXuanDaShenZhouYuZhong (省选大神周羽中)
-ShenXuanDaShenZhouYuZhong is a DIY package for [Legends of the Three Kingdoms - Kingdoms Wars](http://guozhan.sanguosha.com) (三国杀·国战), whose official name is HuaXueZhiFeng (化学之风), including one here called Zhou Chong.
+ShenXuanDaShenZhouYuZhong is a DIY package for [Legends of the Three Kingdoms - Kingdoms Wars](http://guozhan.sanguosha.com) (三国杀·国战), whose official name is HuaXueZhiFeng (化学之风), including one hero called Zhou Chong.
 
 **Author**: Jinzhe Zeng
 
