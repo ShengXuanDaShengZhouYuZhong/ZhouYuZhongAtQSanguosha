@@ -1,13 +1,17 @@
-# ShenXuanDaShenZhouYuZhong (省选大神周羽中)
-ShenXuanDaShenZhouYuZhong is a DIY package for [Legends of the Three Kingdoms - Kingdoms Wars](http://guozhan.sanguosha.com) (三国杀·国战), whose official name is HuaXueZhiFeng (化学之风), including one hero called Zhou Chong.
+# ShengXuanDaShenZhouYuZhong (省选大神周羽中)
+ShengXuanDaShenZhouYuZhong is a DIY package for [Legends of the Three Kingdoms - Kingdoms Wars](http://guozhan.sanguosha.com) (三国杀·国战), whose official name is HuaXueZhiFeng (化学之风), including one hero called Zhou Chong.
 
 **Author**: Jinzhe Zeng
 
-**Email**: njzjz@qq.com 10154601140@stu.ecnu.edu.cn
+**Email**: jzzeng@stu.ecnu.edu.cn
 
 ## Hero
 
 ![Shenxuandashen](https://github.com/njzjz/ZhouYuZhong/blob/master/image/fullskin/generals/full/Shengxuandashen.png?raw=true)
+
+**ShengXuanDaShen Chong Zhou** Gold 1.5
+
+**ShengXuan** - When you first set up this military card, you get the skills of all the generals in the game.
 
 **省选大神·周翀** 神势力 1.5勾玉
 
